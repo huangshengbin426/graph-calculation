@@ -1,4 +1,4 @@
-## Survey of Graph Computing Applications in Machine Learning and Data Mining area.
+## Survey of Graph Computing Applications in Database/Information Retrieval.
 
 ## Conferences to be surveyed
 CCF Recommended List for International Conferences can be found at [here](http://www.ccf.org.cn/sites/ccf/paiming.jsp "CCF推荐排名").
