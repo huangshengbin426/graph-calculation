@@ -3,7 +3,7 @@
 ## Conferences to be surveyed
 CCF Recommended List for International Conferences can be found at [here](http://www.ccf.org.cn/sites/ccf/paiming.jsp "CCF推荐排名").
 
-Conferences on Machine Learning and Data Mining will be surveyed. Articles adopting graph analysis and computing technique will be included in our article list.
+Conferences on Database / Information Retrieval will be surveyed. Articles adopting graph analysis and computing techniques will be included in our article list.
 
 ### CCF-A level conferences
 Papers that were published during 2011-2015 on CCF-A level conferences will be included in the list. The following is the list of conferences to be surveyed:
