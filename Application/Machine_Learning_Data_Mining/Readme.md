@@ -6,7 +6,7 @@ CCF Recommended List for International Conferences can be found at [here](http:/
 Conferences on Machine Learning and Data Mining will be surveyed. Articles adopting graph analysis and computing technique will be included in our article list.
 
 ### CCF-A level conferences
-Papers that were published during 2011-2015 on CCF-A level conferences will be included in the list. The following is the list of conferences to be surveyed:
+Papers that were published during 2010-2015 on CCF-A level conferences will be included in the list. The following is the list of conferences to be surveyed:
 
 * ACM Knowledge Discovery and Data Mining (SIGKDD)
 * IEEE International Conference on Data Engineering (ICDE)

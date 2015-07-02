@@ -1,2 +1,2 @@
-"Year","CCF Level","Conference Abbreviation","Paper Title","Paper Topic","Adopted Graph Computing Technique"
-2013,"A","SIGMOD","I/O efficient: computing SCCs in massive graphs","Graph Algorithm","Strongly Connected Component"
+"Year","CCF Level","Conference Abbreviation","Paper Title","Paper Topic","Adopted Graph Computing Technique","Number of Citations"
+2013,"A","SIGMOD","I/O efficient: computing SCCs in massive graphs","Graph Algorithm","Strongly Connected Component",NA
