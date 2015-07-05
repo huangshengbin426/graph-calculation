@@ -1,2 +1,33 @@
-"Year","CCF Level","Conference Abbreviation","Paper Title","Paper Topic","Adopted Graph Computing Technique","Number of Citations"
-2013,"A","SIGMOD","I/O efficient: computing SCCs in massive graphs","Graph Algorithm","Strongly Connected Component",NA
+Year,CCF Level,Conference Abbreviation,Paper Title,Paper Topic,Adopted Graph Computing Technique,Number of Citations
+2013,A,SIGMOD,I/O efficient: computing SCCs in massive graphs,Graph Algorithm,Strongly Connected Component,NA
+,,,,,,
+http://www.ccf.org.cn/sites/ccf/paiming.jsp,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+2015,A,SIGMOD,Defining Relations on Graphs: How Hard is it in the Presence of Node Partitions?,the complexity of the definability problem,Defining relations on graphs,
+,,,"Vertex and Hyperedge Connectivity in Dynamic Graph Streams
+",algorithm on massive graph , Linear sketches,
+,,ICDE,LLAMA: Efficient Graph Analytics Using Large Multiversioned Arrays,Graph Storage, compressed sparse row,
+2014,A,SIGMOD,"All-Distances Sketches, Revisited: HIP Estimators for Massive Graphs Analysis",scalable analysis of massive graphs,All-distances sketches (ADSs),
+,,SIGKDD,"Modeling Mass Protest Adoption in Social Network
+Communities using Geometric Brownian Motion ",geometric Brownian motion(GBM),informatio diffusion,
+,,,Non-Parametric Scan Statistics for Event Detection and,event detection on heterogeneous graph,NON-PARAMETRIC SCAN STATISTICS,
+,,,Forecasting in Heterogeneous Social Media Graphs,,,
+,,,Event detection in activity networks,event detection,"greedy algorithm,MaxCut formulation ",
+,,,FEMA: Flexible Evolutionary Multi-faceted Analysis for,behavior modeling,behavioral pattern discovery,
+,,,Dynamic Behavioral Pattern Discovery,,,
+,,,Almost Linear-Time Algorithms for Adaptive Betweenness Centrality using Hypergraph Sketches?,Graph Algorithm,hypergraph sketches,
+,,,Efficient SimRank Computation via Linearization,Graph Algorithm,SimRank linearization,
+,,,FAST-PPR: Scaling Personalized PageRank Estimation for Large Graphs,optimization Graph Algorithm,PageRank,
+,,,Graph Sample and Hold:A Framework for Big-Graph Analytics,Graph Algorithm,Network Sampling,
+,,,Balanced Graph Edge Partition,Graph Edge Partition,Streaming Heuristics,
+,,,Scalable Diffusion-Aware Optimization of Network Topology,network diffusion,linear threshold diffusion model,
+,,,Core Decomposition of Uncertain Graphs,graph analysis,finding dense subgraphs,
+,,,Focused Clustering and Outlier Detection in Large Attributed Graphs,graph mining,graph clustering,
+,,,Inside the Atoms: Ranking on a Network of Networks?,Graph Algorithm,ranking ,
+,,,Community Membership Identification from Small Seed Sets?,Graph Algorithm,?Community Detection,
+,,,Community Detection in Graphs through Correlation?,Graph Algorithm,?Community Detection,
+,,,Heat Kernel Based Community Detection?,Graph Algorithm,?Community Detection,
+,,,On the Permanence of Vertices in Network Communities,Graph Algorithm,?Community Detection,
+,,SIGIR,,,,
